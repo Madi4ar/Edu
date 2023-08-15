@@ -1,0 +1,385 @@
+@media screen and (max-width: 2560px){
+
+}
+@media screen and (max-width: 1500px){
+	
+}
+@media screen and (max-width: 1400px){
+	
+}
+@media screen and (max-width: 1200px){
+	.container{
+		width: 1140px;
+	}
+}
+@media screen and (max-width: 1199px){
+	.container{
+		width: 960px !important; 
+	}
+    .pod_input {
+        flex-direction: column;
+        align-items: flex-start;
+    }
+    .pod_input button {
+        margin-left: 0;
+        margin-top: 10px;
+    }
+    .head-width {
+        width: 502px;
+    }
+    .search-box {
+        margin-left: 10px;
+    }
+	.log {
+        width: 232px;
+    }
+	.logus {
+		width: 282px;
+	}
+	.filter {
+		width: 22% !important;
+	}
+	.more-icons {
+		width: 100%;
+	}
+	.for-course-icon p {
+		width: 100%;
+	}
+	.for-course-block {
+		margin-right: 20px;
+		margin-left: 20px;
+	}
+	.blue {
+		margin-left: 20px;
+    	margin-right: 20px;
+	}
+	.trainers {
+		margin-left: 20px;
+    	margin-right: 20px;
+	}
+}
+@media screen and (max-width: 991px){
+	.container{
+		width: 720px;
+	}
+	
+}
+@media screen and (max-width: 768px){
+	.container{
+		width: 100% !important;
+		padding: 0 15px !important;
+	}
+	
+	.burger-menu {
+		display:block;
+	}
+	.burger-menu_button {
+		display: block;
+	}
+	
+	.ul-width {
+		display:none !important;	
+	}
+	.head-width {
+		width: 182px;
+		justify-content: flex-end !important;
+	}
+	.log {
+		width: 222px;
+	}
+	.logus {
+		width: 300px;
+	}
+	.info_text {
+		width: 100%;
+	}
+	.info_button {
+		margin-top: 70px;
+	}
+	.big_categories {
+		flex-direction: column;
+		margin-top: 0 !important;
+	}
+	.filter {
+		width: 90% !important;
+	}
+	.filter_contents {
+		width: 90% !important;
+		margin-top: 30px;
+	}
+	.partner {
+		padding: 0.5rem !important;
+	}
+	.sos {
+		flex-direction: column;
+	}
+	.sos p {
+		text-align: center;
+	}
+	.contact {
+		width: 40% !important;
+	}
+	.pod_input input {
+		width: 80%;
+	}
+	.filterac[data-tab-content] {
+		display: flex;
+		align-items: center;
+		flex-direction: column;
+	}
+	.extra {
+		display: block !important;
+	}
+	nav .search-box {
+		display: none;
+	}
+	
+}
+@media screen and (max-width: 575px){
+	.container{
+		width: 100%;
+		padding: 0 15px;
+	}
+	.block2 {
+		padding-top: 24px;
+	}
+	.filter-mob {
+		display: flex !important;
+	}
+	.smart {
+		display: none !important;
+	}
+	.burger-menu_nav .log {
+		display: flex;
+		flex-direction: column;
+		align-items: center;
+	}
+	.burger-menu_nav .lang {
+		margin-top: 20px;
+	}
+	.activex {
+		background-color: white;
+		color: black;
+	}
+	header .search-box {
+		display: none !important;
+	}
+	
+	.extra {
+		display: block !important;
+		border:1px solid transparent;
+	}
+	
+	  
+	  .info_slide {
+		display: flex !important;
+		flex-direction: column;
+		min-height: 486px !important;
+	  }
+	  .info_slide_in {
+		display: flex;
+		flex-direction: column;
+	  }
+	  .info_title {
+		display: flex;
+		flex-direction: column;
+		align-items: center !important;
+	  }
+	  .info_title p {
+		width: 100%;
+	  }
+	  .tabs-scroll-container {
+		max-width: 569px; 
+		overflow-x: scroll;
+		white-space: nowrap;
+	}
+	
+	.tabs {
+		display: inline-block; 
+		border-radius: 8px;
+		background-color: transparent !important;
+	}
+	.tabs ul li a{
+		background-color: white;
+		border-radius: 8px;
+		color: black;
+		padding: 15px 25px;
+	}
+	.filter {
+		display: none;
+	}
+	.tab-content {
+		margin-left: 0;
+		margin-right: 0;
+	}
+	.first-zag a span {
+		display: none;
+	}
+	.drug {
+		display: none;
+	}
+	.info_user {
+		display: flex;
+		flex-direction: column;
+	}
+	.info_cors {
+		display: flex !important;
+		flex-direction: column;
+		justify-content: center !important;
+		align-items: center !important;
+	}
+	.info_cors p {
+		width: 100%;
+	}
+	.info_cors p:nth-child(2) {
+		text-align: center;
+		margin-top: 10px;
+		color:#6CC126;
+	}
+	.info_cors_user {
+		display: flex;
+		flex-direction: column;
+	}
+	.user_online {
+		margin-top: 20px;
+	}
+	.info_feedback {
+		display: flex;
+		flex-direction: column;
+	}
+	.info_zap {
+		margin-top: 20px;
+	}
+	.info_zap a {
+		font-size: 13px;
+		align-items: center;
+	}
+	.info_zap a:nth-child(2) {
+		padding: 9px 15.5px 9px 17.5px !important;
+	}
+	.partners {
+		display: none !important;
+	}
+	.partnerx {
+		display: flex !important;
+		align-items: center;
+		justify-content: center;
+	}
+	.partnerx img {
+		margin: 0 auto;
+		object-fit: cover;
+	}
+	.sos img {
+		margin: 0 auto;
+	}
+	.contacts {
+		width: 100% !important;
+	}
+	.contact {
+		width: 50% !important;
+	}
+	.podpiska {
+		width: 100% !important;
+		margin-top: 30px !important;
+	}
+	.first {
+		display: none;
+	}
+	.second {
+		display: block;
+		margin-left: 20px !important;
+		padding: 15px 24px !important;
+		margin-top: 0 !important;
+	}
+	.pod_input {
+		display: flex !important;
+		flex-direction: unset;
+		align-items: center;
+	}
+	.course-block1 {
+		flex-direction: column;
+		min-height: 551px;
+		align-items: flex-end;
+	}
+	.course-txt p.tex {
+		width: 100%;
+	}
+	.format-date {
+		flex-wrap: wrap;
+		justify-content: center !important;
+		width: 90%;
+	}
+	.format-icon:nth-child(3) {
+		margin-top: 10px;
+	}
+	.format-icon:nth-child(2) {
+		border-right: transparent;
+	}
+	.format-title p {
+		width: 271px;
+		text-align: center;
+	}
+
+	.for-course-block {
+		flex-direction: column-reverse;
+		min-height: 476px;
+		align-items: flex-end !important;
+		padding-bottom:31px;
+	}
+	.for-course-text {
+		width: 100% !important;
+	}
+	.for-course-img {
+		transform: scale(1);
+	}
+	.for-course-img img {
+		position: relative;
+    	top: 30px;
+	}
+	.more-icons {
+		padding-left: 34px;
+		padding-right: 34px;
+	}
+	.module {
+		flex-direction: column;
+	}
+	.exp {
+		width: 100% !important;
+	}
+	.trainers {
+		flex-direction: column;
+	}
+	.trainer-info:nth-child(2) {
+		margin-left: 0;
+		margin-top: 30px;
+	}
+	#resourse .filter_contents {
+		justify-content: center !important;
+	}
+}
+
+@media screen and (max-width: 414px){
+	.info_zap {
+		flex-direction: column !important;
+		align-items: center !important;
+	}
+	.info_zap a:nth-child(2) {
+		margin-left: 0;
+		margin-top: 10px;
+	}
+}
+@media screen and (max-width: 360px){
+	.filter-mob {
+		flex-direction: column;
+	}
+	.trainer-user {
+		flex-direction: column;
+	}
+	.trainer-user p {
+		margin-left: 0;
+		text-align: center;
+	}
+}
+@media screen and (max-width: 300px){
+
+}
